@@ -1,0 +1,2 @@
+# Push-Button-Counter-
+Four switches (Push button: A, B, C, and D) are connected to ATmega328p as shown in the figure.  The micro controller needs to keep track of how many times each button has been pressed. Whenever any button has been pressed, the micro controller needs to send out  the information (of how many times each button has been pressed)  through the serial port.  Program the micro controller to accomplish this.
